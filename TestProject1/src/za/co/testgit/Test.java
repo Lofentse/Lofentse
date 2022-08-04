@@ -11,7 +11,7 @@ public class Test {
 
 	private void print() {
 		// TODO Auto-generated method stub
-		System.out.println("My name is Lofentse");
+		System.out.println("My name is Lofentse Koboekae");
 	}
 
 }
